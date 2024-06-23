@@ -18,7 +18,7 @@ app.post('/api/query', (req, res) => {
         model: "command"
     }, {
         headers: {
-            Authorization: 'Bearer YOUR_COHERE_API_KEY'
+            Authorization: 'Bearer i6gEYEaBF20ZbdZTofU9unDBtZC8npekHx51u8ne'
         }
     })
     .then(response => {
